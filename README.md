@@ -78,70 +78,74 @@ We found this question compelling because it helps us understand whether the use
   -  Classified as a carcinogen.
   -  Significant decrease in product use from 2009 to 2020.
 
-
+# 
 ![AGV_vUcd3vgNx_EhZIm08z-0Un9Zpn_nU-_9n9HoUTuG49jz5WbIQsRK8u3QcnsrUdwwnLAOT-YmorMXtVOMwhyH53pYrZaZsGTS-lA8_pcgVN92Uc0Wi7TW9tGlW44laMHJpI0IE5cQ=s2048](https://github.com/user-attachments/assets/723a2cde-562d-40db-a3c8-b3fce8539b26)
 
 #### 2. Triethanolamine
   -  Causes allergic reactions (skin and eye irritation) and potential toxicity over long-term exposure.
   -  Reported in 2009; discontinued by 2018.
 
-
+# 
 ![AGV_vUfUkojlxebbOudBxJC-kQ7-lodNVJ15_CyFpGa1zzx6AHFpDxmevHu39ViReLiPTy29yKwh_owxrIs7Dtnrmgip_ysT2ZhiWzQk63OnwTgjYKvy65pf7P0g9KoETtTZSWZoTbAU=s2048](https://github.com/user-attachments/assets/11c319e8-6f98-4566-9463-dcc3c28ccece)
 
 #### 3. Estragole
   -  Naturally found in basil oil; proven carcinogenic in studies.
   -  Sharp decline in use between 2009 and 2020.
 
-
+# 
 <img width="728" alt="AGV_vUd7WMBRxnfMjEahx99xfYWYHXaUnL6l_KWSZGlZkJtC-gaRnLpKD77uQigBgBH4Namxw6WHVIb17YLIvKdSYplZsbRB-NI848Q_R9I0oipyd-8vaH4DlC28vnuI5yQDRm41f5W6MQ=s2048" src="https://github.com/user-attachments/assets/7b99aa22-2492-4be8-971e-c223a28d17d7" />
 
-#### 4. Cocamide DEA / Cocamide MEA / Lauramide DEA
+#### 4. Cocamide DEA (Bright Orange) / Cocamide MEA (Light Orange) / Lauramide DEA (Dark Yellow)
   -  Associated with cancer risk.
   -  Cocamide DEA was briefly discontinued after 2009 but reappeared by 2020.
   -  Cocamide MEA reported in 2012, phased out by 2018 but seen in some 2020 products.
   -  Lauramide DEA introduced in 2011 and discontinued by 2013.
 
-
+# 
 ![AGV_vUcBwhdOA3y_PHsXjx6ZxYdSec92bAOLeL2mB3gIPr_wBoA2gaAsySstve92009BLS4Gf-RIv7MJHHuSKQc2KW-k4_pX-xuHC0DabrvlAPO_hVLI_2Knk54ywIHD2X8XFez3DvTZpw=s2048](https://github.com/user-attachments/assets/f97d7200-7b4c-4ca7-806a-80560f2a7edd)
 
 #### 5. Retinol - Highest Trend of Usage
   -  Popular for anti-aging, but linked to skin cancer (especially with UV exposure) and reproductive harm.
   -  Highest usage trend, though declining after 2019 as awareness grows.
 
-
-![AGV_vUckm-xsz79WByr6StQpzhRU445ZnEcf5xhaDJkuKLHg0oAoEwVhHXLUq3Rak0jQeQA09m0fWivsX921IKcfOO5cEa-Q-bEOyy5IhPf_Jd-PnAW_0Kp-D-z6BmUZ4b6uIryKy33c_Q=s2048](https://github.com/user-attachments/assets/0f5b00d9-3e2b-4810-aef7-23dad61a9e7e)
+# 
+<img width="709" alt="IMG_5869" src="https://github.com/user-attachments/assets/d201de1c-3159-4f63-b8fe-81ad53093604" />
 
 #### 6. Pulegone - Lowest Trend of Usage
   -  A toxic compound linked to liver and lung cancers.
   -  Very low trend of use, only reported between 2015 and 2016.
 
-
+# 
 <img width="572" alt="PNG image" src="https://github.com/user-attachments/assets/774150ef-f16b-468c-8430-9fd0e31593f1" />
 
 #### 7.   Progesterone
   -  Linked to skin irritation, headaches, and cancer risk.
   -  Reported use from 2009 to 2014, then discontinued.
 
-
+# 
 <img width="486" alt="PNG image" src="https://github.com/user-attachments/assets/53736d36-5f46-428a-9f74-537000d175fa" />
 
 #### 8. Di-n-butyl Phthalate (DBP)
   -  Can cause birth defects and reproductive toxicity.
   -  Sharp rise in 2010, discontinued after 2016.
 
-
+# 
 <img width="419" alt="PNG image" src="https://github.com/user-attachments/assets/992e4fc0-ae48-4028-9caf-5fdcade5b6db" />
 
 #### 9. Bisphenol A (BPA)
   -  Known for causing brain development issues, cardiovascular risks, and infertility.
   -  Reported presence in products starting in 2019, with with inconclusive results on whether or not it has been discontinued recently.
 
-
+# 
 <img width="463" alt="PNG image" src="https://github.com/user-attachments/assets/d0ec7b9f-9b45-4dcb-9dcf-8b1299f245c2" />
 
 #### 10. Spironolactone
   -  Associated with stomach issues, cardiac irregularities, and allergic reactions.
   -  Briefly reported in 2010; discontinued the same year.
+
+ 
+
+
 
 
 
