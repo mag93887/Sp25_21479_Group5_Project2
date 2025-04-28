@@ -34,18 +34,18 @@
   -  Identifies the most commonly used chemicals across different product subcategories.
   -  Highlights potential repeated exposure risks for consumers.
   -  Reveals the extent of standardization or limitation in ingredient choices.
-  -  Provides insights into broader industry trends in cosmetic product formulation.
+  -  Provides insights into broader industry trends in cosmetic product formulation. 
 
   We chose this question because we were curious to see whether there is a significant overlap in the chemicals used across different subcategories of cosmetic products. Understanding this overlap can reveal how standardized or limited ingredient choices are within the industry. Additionally, identifying commonly repeated chemicals could shed light on potential cumulative exposure risks for consumers, particularly to ingredients known or suspected to cause harm. By analyzing these patterns, we can better understand trends in cosmetic formulation practices and potential areas for public health concern.
 
 
 ### Manipulations
-  For the visualization, we filtered the dataset to include only hair and nail product subcategories. We then limited the data to focus on the top 20 most frequently reported chemicals across these products. To improve readability and highlight trends or outliers, we color-coded each chemical name, allowing for easier comparison of chemical usage across different subcategories.
+  For the visualization, we filtered the dataset to include only hair and nail product subcategories. We then limited the data to focus on the top 20 most frequently reported chemicals across these products. To improve readability and highlight trends or outliers, we color-coded each chemical name, allowing for easier comparison of chemical usage across different subcategories. 
 
 ### Analysis
 ![2645E04A-47C4-4EC9-A27A-BA4CAF35ECB7](https://github.com/user-attachments/assets/ba752d7b-af47-417b-9206-ee0cf595e282)
 
-  The visualization shows that titanium dioxide is a dominant chemical appearing across both hair and nail product subcategories. In hair products, titanium dioxide is primarily used for pigmentation and UV protection, while in nail products, it contributes to opacity and brightness.
+  The visualization shows that titanium dioxide is a dominant chemical appearing across both hair and nail product subcategories. In hair products, titanium dioxide is primarily used for pigmentation and UV protection, while in nail products, it contributes to opacity and brightness. 
   Its widespread presence across multiple subcategories reflects common formulation strategies focused on color enhancement, product stability, and sun protection. This indicates that cosmetic manufacturers frequently rely on the same key ingredients across product lines, reinforcing trends toward standardized formulations.
   From a consumer health perspective, the repeated appearance of titanium dioxide across categories highlights the potential for cumulative exposure. Although titanium dioxide is generally valued for its functionality, concerns exist — particularly regarding inhalation of its fine particulate form, which has been linked to adverse health effects. The overlap shown in the visualization emphasizes the need to evaluate cross-product exposure risks, not just risks tied to individual products.
 
